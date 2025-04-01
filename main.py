@@ -5,6 +5,7 @@ from datetime import datetime
 import uuid
 
 #base = declarative_base()
+#creating engine
 engine = create_engine("sqlite:///onb.db")
 
 
