@@ -14,7 +14,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
 from datetime import datetime, timedelta
 import bcrypt
-
+#Added comment 123 by m2
 Base = declarative_base()
 
 class User(Base):
