@@ -323,5 +323,7 @@ def get_investment_performance():
 def func1(a):
     return a
 
+
 if __name__ == '__main__':
     app.run(debug=True)
+#added comment by Madhavi
