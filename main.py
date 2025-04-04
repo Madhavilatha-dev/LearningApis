@@ -320,7 +320,10 @@ def get_investment_performance():
         "timestamp": performance.timestamp.isoformat()
     }), 200
 
+def func1():
+    pass
 
 
 if __name__ == '__main__':
     app.run(debug=True)
+#added comment by Madhavi
